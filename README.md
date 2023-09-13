@@ -42,4 +42,5 @@ Instead of | we can use / , ?, :, ;, #, @
 
 PROBLEM:
 1. If input is not given then script should fail
- <!-- these are the most important things to learn -->
+
+[//]: # (these are the most important things to laearn and excel)
