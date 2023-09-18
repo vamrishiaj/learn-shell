@@ -44,3 +44,4 @@ PROBLEM:
 1. If input is not given then script should fail
 
 [//]: # (these are the most important things to learn)
+#practice
